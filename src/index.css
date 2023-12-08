@@ -1,0 +1,25 @@
+*{
+  margin: 0px;
+  padding:0px;
+}
+.head{
+background-color: rgb(11, 11, 20);
+  
+}
+.story img{
+margin-top: 10px;
+height: 400px;
+width:80%;
+margin-left: 30px;
+opacity: 0.2;
+
+
+
+}
+.story h1{
+  position: relative;
+    left: -804px;
+    top: -99px;
+    font-size: 23px;
+    color: black;
+}
